@@ -1,6 +1,6 @@
 # Online Training website 
 
-> Help wanted: Currently I dont have time to develop this project so if anybody want to help I would love to invite to the contribution list
+>Hello hii I polited request to all Help wanted: Currently I dont have time to develop this project so if anybody want to help I would love to invite to the contribution list
 
 > Online Training website like udemy or pluralsight using ASP.Net Core and Angular 4
 
